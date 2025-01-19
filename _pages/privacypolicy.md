@@ -1,12 +1,9 @@
-Here's the Privacy Policy with reduced spacing between sections while maintaining readability:
-
-```yaml
 ---
 layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-```
+
 
 **Last updated**  
 20 February 2025
