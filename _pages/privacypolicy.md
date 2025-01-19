@@ -1,9 +1,12 @@
+Here's the Privacy Policy with reduced spacing between sections while maintaining readability:
+
+```yaml
 ---
 layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-Below is a tailored Privacy Policy for your app, "Let's CV," using the provided template and information. Please review, adjust any placeholder text, and consult legal counsel to ensure compliance with applicable regulations.
+```
 
 **Last updated**  
 20 February 2025
@@ -11,8 +14,6 @@ Below is a tailored Privacy Policy for your app, "Let's CV," using the provided 
 # Privacy Policy
 
 Welcome to Let's CV! This Privacy Policy describes how we collect, use, and protect your information when you use our application. By using Let's CV, you agree to the practices outlined in this policy.
-
-<br>
 
 ## 1.0 Information We Collect
 
@@ -26,15 +27,11 @@ Additionally, Let's CV uses Google AdMob to show ads. While we do not know the e
 ### 1.2 How Data Is Collected
 - **Firebase Analytics:** We use Firebase Analytics to automatically gather user activity data such as screen views and usage patterns. This data collection helps improve app functionality and user experience.
 
-<br>
-
 ## 2.0 What Personal Information we collect about you and how we collect it
 Let's CV does not require registration or login, and thus does not collect identifiable personal information directly from you. Data collection is limited to:
 - User activity and interaction within the app as described above.
 
 Data is stored on your device using SQLite without encryption.
-
-<br>
 
 ## 3.0 Why We Collect Data
 The primary purpose of collecting this data is to improve app usage and functionality based on user interactions. We analyze this data to:
@@ -42,14 +39,10 @@ The primary purpose of collecting this data is to improve app usage and function
 2. Optimize app performance.
 3. Understand user preferences and usage patterns.
 
-<br>
-
 ## 4.0 Data Usage and Sharing
 Let's CV operates fully offline regarding the sharing of user data. We do not share your data with any third parties, except:
 - Data collected by Firebase Analytics or Google through AdMob may be processed by those services. 
 - We have no direct control over what data these third-party services collect or share.
-
-<br>
 
 ## 5.0 User Rights and Controls
 Since Let's CV does not require registration or store personally identifiable information beyond user activity:
@@ -57,44 +50,27 @@ Since Let's CV does not require registration or store personally identifiable in
 - Users can delete their locally stored CV profiles and personal information at any time.
 - There are no mechanisms within the app for registration, login, or profile management tied to personal identification.
 
-<br>
-
 ## 6.0 Data Security Measures
 We store your data locally on your device using SQLite. While we do not apply additional encryption within the app, we recommend using device-level security measures (such as encryption or PIN locks) to protect your personal data.
-
-<br>
 
 ## 7.0 Data Retention
 Your data, such as CV profiles and personal information, remains stored on your device until you choose to delete it. We do not automatically remove or anonymize this data without your consent.
 
-<br>
-
 ## 8.0 Children’s Privacy
 Let's CV is not intended for use by children under the age of 13. We do not knowingly collect data from children.
-
-<br>
 
 ## 9.0 Cookies and Tracking Technologies
 Let's CV does not use cookies or similar tracking technologies.
 
-<br>
-
 ## 10.0 Third-Party Links and Services
 Our app does not include third-party links or services, apart from Firebase Analytics and Google AdMob used for analytics and advertising.
 
-<br>
-
 ## 11.0 Jurisdiction and Applicable Laws
 Let's CV is available globally. By using our app, you agree that data collection and processing may be subject to laws and regulations in your jurisdiction as well as those where third-party services (like Google) operate.
-
-<br>
 
 ## 12.0 Contact Information
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:  
 **Email:** letscv.feedback@gmail.com
 
-<br>
-
 ## 13.0 Policy Changes
 We may update this Privacy Policy from time to time. Changes will be notified within the app. Please review this policy periodically to stay informed about how we protect and use your information.
-
