@@ -20,7 +20,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name: Serhii Buhai
-your_link: www.linkedin.com/in/serhii-buhai
+your_link: https://linkedin.com/in/serhii-buhai
 your_city: Kamianec-Podilskyi
 email_address: serhiibuhai.work@gmail.com
 facebook_username:
