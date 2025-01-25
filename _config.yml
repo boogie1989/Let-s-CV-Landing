@@ -18,12 +18,13 @@ app_description: Let's CV – Your Professional Resume!
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
-your_name: Serhii Buhai
-your_link: https://linkedin.com/in/serhii-buhai
-your_city: Kamianec-Podilskyi
+your_name: Let's Go Solutions
+your_link: https://www.linkedin.com/company/105464704/admin/dashboard/
+your_city:
 email_address: letscv.feedback@gmail.com
 facebook_username:
-instagram_username: boogie1989_
+# instagram_username: boogie1989_
+instagram_username:
 twitter_username:
 github_username:
 youtube_username:
