@@ -113,7 +113,7 @@ sass:
 exclude:
   - LICENSE
   - README.md
-  - CNAME
+  # - CNAME
 
 collections:
   pages:
