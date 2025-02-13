@@ -1,11 +1,12 @@
 page_title: Let's CV
 
 # App Info
-ios_app_id: KLR2FP4M7U.com.letscv.app # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+# ios_app_id: KLR2FP4M7U.com.letscv.app
+ios_app_id: 6740403291
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: https://apps.apple.com/ua/app/lets-cv/id6740403291
-playstore_link: # Enter Google Play Store URL.
+playstore_link: https://play.google.com/store/apps/details?id=com.letscv.app
 # presskit_download_link:
 #   https://emilbaehr.com # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 #   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
